@@ -1,5 +1,14 @@
 # 🌐 Cybersecurity Enthusiast | Computer Science Student
 
+<div align="center">
+  <iframe src="https://giphy.com/embed/87f27TUxOTt3a" width="480" height="269" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
+  <p><a href="https://giphy.com/gifs/hot-omfg-code-geass-87f27TUxOTt3a">via GIPHY</a></p>
+</div>
+
+</br>
+</br>
+</br>
+
 Hello! I'm a **Computer Science student** passionate about exploring the fascinating world of **cybersecurity**. I enjoy learning about **ethical hacking**, **web application security**, and **system vulnerabilities**.
 
 ## 🔐 Interests:
@@ -14,8 +23,6 @@ Hello! I'm a **Computer Science student** passionate about exploring the fascina
 I am enhancing my skills in **secure coding** and **threat analysis**. Let's collaborate on projects that make the digital world safer!
 
 Feel free to connect with me for discussions, projects, or just to exchange knowledge!
-
-![Anime GIF](https://tenor.com/qjRP1bED6sG.gif)
 
 ---
 
