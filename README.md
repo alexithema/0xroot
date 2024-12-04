@@ -1,8 +1,7 @@
 # 🌐 Cybersecurity Enthusiast | Computer Science Student
 
 <div align="center">
-  <iframe src="https://giphy.com/embed/87f27TUxOTt3a" width="480" height="269" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-  <p><a href="https://giphy.com/gifs/hot-omfg-code-geass-87f27TUxOTt3a">via GIPHY</a></p>
+  <img height="269" width="480" alt="GIF" align="center" src="https://raw.githubusercontent.com/alexithema/0xroot/refs/heads/main/giphy.webp">
 </div>
 
 </br>
